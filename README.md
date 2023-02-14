@@ -9,7 +9,8 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ## 👑Findings
 (i) Production wise top zone is South zone with Kerala topping it's high crop production.
-![image](https://user-images.githubusercontent.com/60544331/218754459-c872773f-b99b-4ae5-a6c4-13d9a60096d9.png)
+![image](https://user-images.githubusercontent.com/60544331/218754657-b12bd54d-1c43-4264-a068-fbddf00911c4.png)
+
 
 
 (ii) Production wise top crop type are Coconut, Sugarcane and Rice.
