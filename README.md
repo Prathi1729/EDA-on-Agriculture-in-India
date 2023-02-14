@@ -13,7 +13,9 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 
 (ii) Production wise top crop type are Coconut, Sugarcane and Rice.
-Total Production hit peak in the year 2011 and 2013.
+![image](https://user-images.githubusercontent.com/60544331/218754107-df0bef22-5255-451d-800f-1ddf2eb7711e.png)
+
+(iii) Total Production hit peak in the year 2011 and 2013.
 
 (iii) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
 
