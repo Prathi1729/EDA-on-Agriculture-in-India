@@ -1,6 +1,24 @@
-# EDA on Agriculture in India
-BI is on the lookout for new ways to save costs while making few or no sacrifices and it wants to optimise earnings. Farms can make greater use of their data by
-implementing BI systems. Making data-driven decisions, gaining a competitive advantage, and improving forecasts are all things that can be done using data. 
-It helps to create an agri-tech network. BI may use data from prior years to improve planning and prevent having to start from scratch with each new production cycle. 
-The ability of information and knowledge development for assisting decision making has been proved by Business Intelligence (BI) technologies with the Extract, Transform, and Loading process, Data Warehouse, and Power BI. In this project, we are going to find insights and
-patterns using BI tools and crop prediction using machine learning.
+
+# 📌EDA on Agriculture in India
+## 📕Description
+Data Analysis State-wise Crop Production in India at kaggle for 1997 to 2015.
+
+This dataset's exploratory data analysis could provide information about the state of Indian agriculture at the state, district, crop, and area levels as well as the level of production. A thorough investigation will tell a wonderful tale of this significant Indian feature.
+
+Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
+
+## 👑Findings
+(i) Production wise top zone is South zone with Kerala topping it's high crop production.
+
+(ii) Production wise top crop type are Coconut, Sugarcane and Rice.
+Total Production hit peak in the year 2011 and 2013.
+
+(iii) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
+
+(iv) Top crop categories are Cereal, Pulses and Oilseeds.
+
+(v) Top producing state Kerela shows a abundance of whole year seasonal crops.
+
+(vi) Top producing state Uttar Pradesh shows abundance of Kharif, Rabi and Summar crops.
+
+(vii) Top Crop Categories are Cereal(27.5), Pulses(17.8) and oilseeds(14.7) and these crops contribute towards 60% of total crop production.
