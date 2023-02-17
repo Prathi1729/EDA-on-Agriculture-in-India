@@ -3,6 +3,7 @@
 ## 📕Description
 Data Analysis State-wise Crop Production in India at kaggle for 1997 to 2015.
 
+In this project, we are going to find insights and patterns and crop prediction using machine learning.
 This dataset's exploratory data analysis could provide information about the state of Indian agriculture at the state, district, crop, and area levels as well as the level of production. A thorough investigation will tell a wonderful tale of this significant Indian feature.
 
 Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
