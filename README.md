@@ -37,7 +37,7 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 (vii) Top Crop Categories are Cereal(27.5), Pulses(17.8) and oilseeds(14.7) and these crops contribute towards 60% of total crop production.
 ![7](https://user-images.githubusercontent.com/60544331/218756280-a82d80e5-7128-48c5-8220-7677645e005d.png)
 
-## 👑Trend Analysis
+## 🚀Trend Analysis
 (i) Variety of Crops have increased during 1997 to 2003 and have decreased afterwards. In the year 2015 there is a certain downfall in the number of various Crops.
 
 ![20](https://user-images.githubusercontent.com/60544331/221859193-8e45f322-e4ac-48e4-87f0-ca4260348f3e.png)
@@ -57,7 +57,7 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ![24](https://user-images.githubusercontent.com/60544331/221860166-c7cb9aba-a7ad-4966-ba60-d64f850247b2.png)
 
-## 👑Conclusion
+## 🌱Conclusion
 Indian agriculture started a decline in the trend of food production because: 
 (i) More and more land is being used for the development of factories, warehouses, and shelters; this has decreased the amount of land under cultivation. 
 (ii) Pesticides, fertilisers, excessive irrigation, etc. all deteriorate soil, which causes salinity and water logging.
