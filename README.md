@@ -39,12 +39,15 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ## 👑Trend Analysis
 (i) Variety of Crops have increased during 1997 to 2003 and have decreased afterwards. In the year 2015 there is a certain downfall in the number of various Crops.
+
 ![20](https://user-images.githubusercontent.com/60544331/221859193-8e45f322-e4ac-48e4-87f0-ca4260348f3e.png)
 
 (ii) The graphic suggests that, with a value of 35000, the agriculture area is the greatest during the winter. We can also deduce that there is relatively little agricultural throughout the summer.
+
 ![25](https://user-images.githubusercontent.com/60544331/221860346-9653f8ea-554b-467a-9ae8-d41aa2fff1d8.png)
 
 (iii) The production in 2011 is highest then there is downward trend on production. In 2015 the production goes below what was in 1997
+
 ![21](https://user-images.githubusercontent.com/60544331/221859254-00b07002-411a-4f9d-a954-0b8307acdac9.png)
 
 ![22](https://user-images.githubusercontent.com/60544331/221859364-d8e58653-6a5f-4f02-a4cd-5e90ab8435c6.png)
