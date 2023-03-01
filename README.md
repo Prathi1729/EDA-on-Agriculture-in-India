@@ -17,20 +17,20 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ![32](https://user-images.githubusercontent.com/60544331/221864337-0218f507-120e-47d2-b6cf-71b8b855bf08.png)
 
-(iv) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
+(iii) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
 
 ![34](https://user-images.githubusercontent.com/60544331/221864411-afb67d69-4ee4-4003-ac5c-028c54478a3f.png)
 
-(v) Top crop categories are Cereal, Pulses and Oilseeds.
+(iv) Top crop categories are Cereal, Pulses and Oilseeds.
 
 ![35](https://user-images.githubusercontent.com/60544331/221864448-aefc767a-9c75-42cc-83a9-86a8dcc48494.png)
 
 
-(vi) Top producing state Kerela shows a abundance of whole year seasonal crops. Top producing state Uttar Pradesh shows abundance of Kharif, Rabi and Summar crops.
+(v) Top producing state Kerela shows a abundance of whole year seasonal crops. Top producing state Uttar Pradesh shows abundance of Kharif, Rabi and Summar crops.
 ![36](https://user-images.githubusercontent.com/60544331/221864487-2fb85004-4e62-4f3c-9181-860a5104bacb.png)
 
 
-(vii) Top Crop Categories are Cereal(27.5), Pulses(17.8) and oilseeds(14.7) and these crops contribute towards 60% of total crop production.
+(vi) Top Crop Categories are Cereal(27.5), Pulses(17.8) and oilseeds(14.7) and these crops contribute towards 60% of total crop production.
 ![37](https://user-images.githubusercontent.com/60544331/221864529-3f92ea1e-97f7-41b9-a60b-00c482774b7a.png)
 
 
