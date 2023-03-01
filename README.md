@@ -54,7 +54,7 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ![24](https://user-images.githubusercontent.com/60544331/221860166-c7cb9aba-a7ad-4966-ba60-d64f850247b2.png)
 
-##💸 Prediction
+## 💸Prediction
 Dataset
 
 ![43](https://user-images.githubusercontent.com/60544331/222152788-3503d5e0-4452-4d38-8a8a-1ed73c5b1405.png)
