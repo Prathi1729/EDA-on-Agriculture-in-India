@@ -17,10 +17,6 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ![32](https://user-images.githubusercontent.com/60544331/221864337-0218f507-120e-47d2-b6cf-71b8b855bf08.png)
 
-(iii) Total Production hit peak in the year 2011 and 2013.
-
-![33](https://user-images.githubusercontent.com/60544331/221864369-0c7c6a36-a8ed-4c78-bddc-82ec84e119d8.png)
-
 (iv) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
 
 ![34](https://user-images.githubusercontent.com/60544331/221864411-afb67d69-4ee4-4003-ac5c-028c54478a3f.png)
