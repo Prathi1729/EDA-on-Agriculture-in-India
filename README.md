@@ -61,11 +61,11 @@ Dataset
 
 Accuracy comparison
 
-![42](https://user-images.githubusercontent.com/60544331/222152912-775ee568-a9dd-4802-bff3-56ad3e724c29.png)
+![41](https://user-images.githubusercontent.com/60544331/222152997-fe2cd275-e3b1-4616-8d14-a7e949b863dd.png)
 
 Making Prediction
 
-![41](https://user-images.githubusercontent.com/60544331/222152997-fe2cd275-e3b1-4616-8d14-a7e949b863dd.png)
+![42](https://user-images.githubusercontent.com/60544331/222152912-775ee568-a9dd-4802-bff3-56ad3e724c29.png)
 
 
 ## 🌱Conclusion
