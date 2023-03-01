@@ -54,6 +54,17 @@ Dataset Link: https://www.kaggle.com/abhinand05/crop-production-in-india
 
 ![24](https://user-images.githubusercontent.com/60544331/221860166-c7cb9aba-a7ad-4966-ba60-d64f850247b2.png)
 
+##Prediction
+Dataset
+![43](https://user-images.githubusercontent.com/60544331/222152788-3503d5e0-4452-4d38-8a8a-1ed73c5b1405.png)
+
+Accuracy comparison
+![42](https://user-images.githubusercontent.com/60544331/222152912-775ee568-a9dd-4802-bff3-56ad3e724c29.png)
+
+Making Prediction
+![41](https://user-images.githubusercontent.com/60544331/222152997-fe2cd275-e3b1-4616-8d14-a7e949b863dd.png)
+
+
 ## 🌱Conclusion
 Indian agriculture started a decline in the trend of food production because: 
 (i) More and more land is being used for the development of factories, warehouses, and shelters; this has decreased the amount of land under cultivation. 
